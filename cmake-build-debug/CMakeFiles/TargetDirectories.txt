@@ -1,0 +1,3 @@
+D:/Documents/repositorio_local/parallelized_cousins/cmake-build-debug/CMakeFiles/parallelized_cousins.dir
+D:/Documents/repositorio_local/parallelized_cousins/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/repositorio_local/parallelized_cousins/cmake-build-debug/CMakeFiles/rebuild_cache.dir
